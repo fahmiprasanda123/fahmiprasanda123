@@ -2,7 +2,7 @@
 - 👀 I’m interested in web, mobile development, and data engineer
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me with dm @fahmiprasanda
+- 📫 How to reach me with instagram dm @fahmiprasanda
 
 <!---
 fahmiprasanda123/fahmiprasanda123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
